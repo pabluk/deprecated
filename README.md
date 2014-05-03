@@ -1,0 +1,4 @@
+deprecated
+==========
+
+My deprecated repositories
